@@ -1,8 +1,11 @@
+
 .item{
+  
   
   font-size: 22px;
   margin-bottom: 20px;
   font-weight: 700;
+  display: flexbox;
   
   /* text-decoration: underline orangered; */
 }
