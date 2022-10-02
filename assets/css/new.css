@@ -16,7 +16,7 @@
   color: red;
 }
 .arrowgreen{
-  color: #00ff00 ;
+  color: #00fa00 ;
 }
 .hrr{
   position: relative;
@@ -24,18 +24,13 @@
   border: none;
   height: 12px;
   background: #eb5d1e;
-  margin-bottom: 50px;
-}
-.cardtitle{
-  margin-top: auto;
-  display: flex;
-  font-size: 55px;
-  font-weight: 800
 
 }
+
 .nextgen{
-  font-size: 22px;
-  font-weight: 600;
+  font-size: 18px;
+  font-weight: 500;
+  display: flex;
 }
 .buttontitle{
   font-size: 20px;
